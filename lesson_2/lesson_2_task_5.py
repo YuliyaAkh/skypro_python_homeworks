@@ -9,5 +9,4 @@ if month in (3, 4, 5):
 if month in (6, 7, 8):
  print("Лето")
 if month in (9, 10, 11):
- print("Осень")       
- 
+ print("Осень")

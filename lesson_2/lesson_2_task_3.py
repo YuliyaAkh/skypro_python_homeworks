@@ -1,7 +1,7 @@
 #Площадь квадрата
 
-def square (a):
+def square(a):
     result = (a*a)
     return result
-x=square (5)
-print (x)
+x=square(5)
+print(x)
